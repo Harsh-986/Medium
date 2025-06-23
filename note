@@ -1,0 +1,3 @@
+as we have ENV file likewise we have Wrangler.Jason file for cloudfair which stores all the secret Keys of the project so we have to initialize in Wrangler as well
+
+We learned how to write code in cloudware using hono which gives you a format very similar to express.js
